@@ -7,7 +7,7 @@
 		"url": "git+https://github.com/JobMarketIsCold/FullStackStudyIsCold.git"
 	},
 	"scripts": {
-		"dev": "nodemon -L --exec babel-node src/index.js"
+		"dev": "nodemon --exec babel-node src/server.js"
 	},
 	"author": "200woni",
 	"license": "MIT",
